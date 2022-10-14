@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thmsgbrt/thmsgbrt.git"
+    "url": "git+https://github.com/newObjectccc/newObjectccc.git"
   },
   "keywords": [
     "readme.md",
@@ -17,12 +17,12 @@
     "dynamic",
     "javascript"
   ],
-  "author": "Thomas Guibert",
+  "author": "newObjectccc copy by Thomas Guibert",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thmsgbrt/thmsgbrt/issues"
+    "url": "https://github.com/newObjectccc/newObjectccc/issues"
   },
-  "homepage": "https://github.com/thmsgbrt/thmsgbrt#readme",
+  "homepage": "https://github.com/newObjectccc/newObjectccc#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "mustache": "^4.0.1",
