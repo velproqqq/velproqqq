@@ -1,10 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 嘿! 你好呀.</h1>
 
-<p>欢迎来到我的github主页! </br> 我是cc chan, 前端开发工程师 from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>欢迎来到我的github主页! </br> 我是cc chan，一个完全自学的前端开发工程师，大学专业是国际经济与贸易. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=vue&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -19,11 +18,21 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+<h3>我的 github stats 概览</h3>
+
+###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=radical)
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newObjectccc)]()
 <h3>Open source projects</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=newObjectccc&EasyColumn)](https://github.com/newObjectccc/EasyColumn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newObjectccc)](https://github.com/newObjectccc/EasyColumn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=newObjectccc&repo=myBlog)](https://github.com/newObjectccc/myBlog)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newObjectccc)](https://github.com/newObjectccc/myBlog)
+<a href="https://github.com/newObjectccc/EasyColumn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newObjectccc&repo=EasyColumn" />
+</a>
+
+<a href="https://github.com/newObjectccc/myBlog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newObjectccc&repo=myBlog" />
+</a>
