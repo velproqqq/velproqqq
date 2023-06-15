@@ -38,8 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="40" height="40" alt="safari"/>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="figma"/>
 </p>
-<img src="https://media.tenor.com/_yFLs1OWgBAAAAAC/vinyl-disc-dance-music.gif" width="400" height="300" alt="Vinyl Disc Dance Music GIF - Vinyl Disc Dance Music Escutando Musica GIFs">
-<img src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif" width="400" height="350" alt="Do Not Touch It Programmer GIF - Do Not Touch It Programmer Walking Cow GIFs">
+<div style="display: flex;flex-flow: row nowrap;">
+  <img src="https://media.tenor.com/_yFLs1OWgBAAAAAC/vinyl-disc-dance-music.gif" width="400" height="300" alt="Vinyl Disc Dance Music GIF - Vinyl Disc Dance Music Escutando Musica GIFs">
+  <img src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif" width="400" height="350" alt="Do Not Touch It Programmer GIF - Do Not Touch It Programmer Walking Cow GIFs">
+</div>
 
 <h3>我的 github stats 概览</h3>
 
