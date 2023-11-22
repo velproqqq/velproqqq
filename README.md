@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 嘿! 你好呀.</h1>
 
-<p>欢迎来到我的github主页! </br> 我是cc chan，一个完全自学的前端开发工程师，大学专业是国际经济与贸易. </p>
+<p>欢迎来到我的github主页! </br> 我是庄之一，一个完全自学的前端开发工程师，大学专业是国际经济与贸易. </p>
 <h3>Things I code with</h3>
 <!--   my-skils -->
 
