@@ -30,7 +30,7 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=radical)![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=newObjectccc&theme=radical&layout=compact)
+![Vesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=radical)![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=newObjectccc&theme=radical&layout=compact)
 
 ###
 
