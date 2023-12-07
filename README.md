@@ -10,7 +10,7 @@
 
 ![bg](https://pbs.twimg.com/profile_banners/750599636772061184/1700839325/1080x360)
 
-*Fullstack developer ‖ Anime enthusiast ‖ Continuously working, always doing something, and constantly learning，but never being oneself.*
+*Fullstack developer but justsoso ‖ Anime enthusiast ‖ Continuously working, always doing something, and constantly learning，but never being oneself.*
 
 --------------------------------------------------
 
