@@ -6,14 +6,17 @@
 - **Twitter**: @cccxy10086
 - **Bilibili**: Vesper此间之一
 
+-----------------------------------------------------------------------
+
 *Do not waste your time, just do something and keep learning.*
 
 ![bg](https://pbs.twimg.com/profile_banners/750599636772061184/1700839325/1080x360)
 
 *Fullstack developer but justsoso ‖ Anime enthusiast ‖ Continuously working, always doing something, and constantly learning，but never being oneself.*
 
+-----------------------------------------------------------------------
 
-<h3>我的技术栈</h3>
+<h3>🛠️我的技术栈</h3>
 
 <span>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -42,6 +45,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </span>
 
+-----------------------------------------------------------------------
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/newObjectccc/newObjectccc/output/github-contribution-grid-snake-dark.svg">
@@ -49,6 +53,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/newObjectccc/newObjectccc/output/github-contribution-grid-snake.svg">
 </picture>
 
+-----------------------------------------------------------------------
 
 ###
 
