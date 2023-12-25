@@ -12,7 +12,6 @@
 
 *Fullstack developer but justsoso ‖ Anime enthusiast ‖ Continuously working, always doing something, and constantly learning，but never being oneself.*
 
---------------------------------------------------
 
 <h3>我的技术栈</h3>
 
@@ -43,7 +42,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </span>
 
------------------------------------------------------------------------------------------------------------
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/newObjectccc/newObjectccc/output/github-contribution-grid-snake-dark.svg">
@@ -51,7 +49,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/newObjectccc/newObjectccc/output/github-contribution-grid-snake.svg">
 </picture>
 
------------------------------------------------------------------------------------------------------------
 
 ###
 
