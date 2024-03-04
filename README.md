@@ -16,7 +16,7 @@
 
 -----------------------------------------------------------------------
 
-<h3>🛠️我的技术栈</h3>
+### I code with 🛠️
 
 <span>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -47,10 +47,6 @@
 
 -----------------------------------------------------------------------
 
-
-
------------------------------------------------------------------------
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/newObjectccc/newObjectccc/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/newObjectccc/newObjectccc/output/github-contribution-grid-snake.svg">
@@ -59,12 +55,12 @@
 
 -----------------------------------------------------------------------
 
-###
+### GitHub Stats 🔥
 
-![Vesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=radical)![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=newObjectccc&theme=radical&layout=compact)
+![newObjectccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newObjectccc&theme=radical)
 
-###
-
+-----------------------------------------------------------------------
 #### 感谢浏览 :heart:
 
 <img src="https://profile-counter.glitch.me/newObjectccc/count.svg">  
