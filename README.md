@@ -58,7 +58,7 @@
 ### GitHub Stats 🔥
 
 ![newObjectccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newObjectccc&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newObjectccc&theme=radical&layout=compact&card_width=460)
 
 -----------------------------------------------------------------------
 #### 感谢浏览 :heart:
