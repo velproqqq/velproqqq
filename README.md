@@ -57,8 +57,8 @@
 
 ### GitHub Stats 🔥
 
-![newObjectccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=radical&layout=compact&card_width=440)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newObjectccc&theme=radical&layout=compact&card_width=440)
+![newObjectccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=radical&layout=compact&card_width=410)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newObjectccc&theme=radical&layout=compact&card_width=410)
 
 -----------------------------------------------------------------------
 #### 感谢浏览 :heart:
