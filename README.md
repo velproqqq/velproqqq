@@ -55,6 +55,44 @@
 
 -----------------------------------------------------------------------
 
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/newObjectccc/vtabs"><b>Chrome Vertical Tabs</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/newObjectccc/vtabs?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/newObjectccc/vtabs?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/newObjectccc/vtabs?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/newObjectccc/vtabs?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/newObjectccc/beautyCode"><b>VSCode BeautyCode Exporter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/newObjectccc/beautyCode?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/newObjectccc/beautyCode?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/newObjectccc/beautyCode?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/newObjectccc/beautyCode?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/newObjectccc/bup"><b>Build Project CommandLine-Tool</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/newObjectccc/bup?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/newObjectccc/bup?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/newObjectccc/bup?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/newObjectccc/bup?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+-----------------------------------------------------------------------
+
 ### GitHub Stats 🔥
 
 ![newObjectccc's GitHub stats](https://github-readme-stats.vercel.app/api?username=newObjectccc&show_icons=true&theme=radical&layout=compact&card_width=410)
