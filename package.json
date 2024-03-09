@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newObjectccc/newObjectccc.git"
+    "url": "git+https://github.com/velproqqq/velproqqq.git"
   },
   "keywords": [
     "readme.md",
@@ -17,12 +17,12 @@
     "dynamic",
     "javascript"
   ],
-  "author": "newObjectccc copy by Thomas Guibert",
+  "author": "velproqqq copy by Thomas Guibert",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/newObjectccc/newObjectccc/issues"
+    "url": "https://github.com/velproqqq/velproqqq/issues"
   },
-  "homepage": "https://github.com/newObjectccc/newObjectccc#readme",
+  "homepage": "https://github.com/velproqqq/velproqqq#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "mustache": "^4.0.1",
