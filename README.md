@@ -1,18 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 嘿! 你好呀.</h1>
 
-<p>欢迎来到我的github主页! </br> 我是Vesper@之一，一个完全自学的前端开发工程师，大学专业是国际经济与贸易. </p>
-
-- **Github Page**: [https://newobjectccc.github.io/](https://newobjectccc.github.io/)🔥🔥🔥(这里有一些好文和有趣的网站推荐哦~)
-- **Twitter**: @cccxy10086
-- **Bilibili**: Vesper此间之一
-
------------------------------------------------------------------------
-
-*Do not waste your time, just do something and keep learning.*
-
-![bg](https://pbs.twimg.com/profile_banners/750599636772061184/1700839325/1080x360)
-
-*Fullstack developer but justsoso ‖ Anime enthusiast ‖ Continuously working, always doing something, and constantly learning，but never being oneself.*
 
 -----------------------------------------------------------------------
 
